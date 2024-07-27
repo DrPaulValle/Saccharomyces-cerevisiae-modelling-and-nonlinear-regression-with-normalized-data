@@ -39,9 +39,13 @@ A definir por el docente.
 
 ## Recursos adicionales
 [1] Páez-Lerma, J. B., Arias-García, A., Rutiaga-Quiñones, O. M., Barrio, E., & Soto-Cruz, N. O. (2013). Yeasts isolated from the alcoholic fermentation of Agave duranguensis during mezcal production. Food biotechnology, 27(4), 342-356. https://doi.org/10.1080/08905436.2013.840788
+
 [2] Walker, G. M., & Stewart, G. G. (2016). Saccharomyces cerevisiae in the production of fermented beverages. Beverages, 2(4), 30. https://doi.org/10.3390/beverages2040030
+
 [3] Salazar, Y., Valle, P. A., Rodríguez, E., Soto-Cruz, N. O., Páez-Lerma, J. B., & Reyes-Sánchez, F. J. (2023). Mechanistic modelling of biomass growth, glucose consumption and ethanol production by Kluyveromyces marxianus in batch fermentation. Entropy, 25(3), 497. https://doi.org/10.3390/e25030497
+
 [4] Wolfenden, R., & Yuan, Y. (2008). Rates of spontaneous cleavage of glucose, fructose, sucrose, and trehalose in water, and the catalytic proficiencies of invertase and trehalas. Journal of the American Chemical Society, 130(24), 7548-7549. https://doi.org/10.1021/ja802206s
+
 [5] Motulsky, Harvey, and Arthur Christopoulos. Fitting models to biological data using linear and nonlinear regression: a practical guide to curve fitting. Oxford University Press, 2004.
 [6] Bryan, K. (2022). Differential equations: A toolbox for modeling the world. Simiode.
 [7] Garﬁnkel, A., Shevtsov, J., & Guo, Y. (2017). Modeling life: the mathematics of biological systems. Springer International Publishing AG.
