@@ -1,0 +1,30 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Paul A.
+    family-names: Valle
+    email: paul.valle@tectijuana.edu.mx
+    affiliation: Tecnológico Nacional de México
+    orcid: 'https://orcid.org/0000-0001-6567-1065'
+identifiers:
+  - type: url
+    value: >-
+      https://github.com/DrPaulValle/Saccharomyces-cerevisiae-modelling-and-nonlinear-regression-with-normalized-data
+    description: GitHub Repository
+keywords:
+  - Saccharomyces cerevisiae
+  - Biostatistics
+  - Experimental data
+  - Mathematical modelling
+  - Nonlinear dynamics
+  - Nonlinear regression
+  - Ordinary differential equations
+license: BSD-2-Clause
+date-released: '2024-07-29'
