@@ -32,7 +32,7 @@ Objetivos específicos
 1. Conocer los antecedentes sobre la experimentación in silico y la implementación de modelos matemáticos con base en datos experimentales.
 2. Desarrollar modelos para la evolución de diversos sistemas biológicos y fisiológicos con base en las distintas leyes de crecimiento.
 3. Realizar análisis estadísticos, filtrados de datos experimentales y determina intervalos de confianza.
-4. Formular y ajustar modelos matemáticos de ecua
+4. Formular y ajustar modelos matemáticos de ecuaciones diferenciales ordinarias para definir estrategias de control con ayuda de la experimentación in silico. 
 
 ## Evaluación
 A definir por el docente.
