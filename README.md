@@ -47,5 +47,7 @@ A definir por el docente.
 [4] Wolfenden, R., & Yuan, Y. (2008). Rates of spontaneous cleavage of glucose, fructose, sucrose, and trehalose in water, and the catalytic proficiencies of invertase and trehalas. Journal of the American Chemical Society, 130(24), 7548-7549. https://doi.org/10.1021/ja802206s
 
 [5] Motulsky, Harvey, and Arthur Christopoulos. Fitting models to biological data using linear and nonlinear regression: a practical guide to curve fitting. Oxford University Press, 2004.
+
 [6] Bryan, K. (2022). Differential equations: A toolbox for modeling the world. Simiode.
+
 [7] Garﬁnkel, A., Shevtsov, J., & Guo, Y. (2017). Modeling life: the mathematics of biological systems. Springer International Publishing AG.
